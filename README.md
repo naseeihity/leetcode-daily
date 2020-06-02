@@ -29,3 +29,8 @@
   - [Implement Queue Using stakcs](stack-queue/232.implement-queue-using-stacks.py)
   - [Longest Valid Parentheses](stack-queue/32.longest-valid-parentheses.py)
   - [Evaluate Reverse Polish Notation](stack-queue/150.evaluate-reverse-polish-notation.py)
+  - [Sliding Window Maximum](stack-queue/239.sliding-window-maximum.py)
+  - [Minimun Window Substring](stack-queue/76.minimum-window-substring.py)
+  - [Permutation In String](stack-queue/567.permutation-in-string.py)
+  - [Longest Substring Without Repeating Characters](stack-queue/3.longest-substring-without-repeating-characters.py)
+  - [Find All Anagrams in a String](stack-queue/438.find-all-anagrams-in-a-string.py)
