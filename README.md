@@ -43,3 +43,6 @@
   - [Validate Binary Search Tree](tree/98.validate-binary-search-tree.py)
   - [Lowest Common Ancestor of a Binary Search Tree](tree/235.lowest-common-ancestor-of-a-binary-search-tree.py)
   - [Lowest Common Ancestor of a Binary Tree](tree/236.lowest-common-ancestor-of-a-binary-tree.py)
+  - [Invert Binary Tree]((tree/226.invert-binary-tree.py))
+  - [Maximum Depth of Binary Tree](tree/104.maximum-depth-of-binary-tree.py)
+  - [Path Sum](tree/112.path-sum.py)
