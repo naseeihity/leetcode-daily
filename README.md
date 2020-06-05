@@ -12,6 +12,7 @@
   - [Contains Duplicate](easy/217.contains-duplicate.py)
   - [Best Time To Buy And Sell Stock](easy/122.best-time-to-buy-and-sell-stock-ii.py)
   - [Single Number](easy/136.single-number.py)
+  - [Climbing Stairs](easy/70.climbing-stairs.py)
 
 1. linked-list
   - [Reverse Linked List](linked-list/206.reverse-linked-list.py) 
@@ -34,3 +35,11 @@
   - [Permutation In String](stack-queue/567.permutation-in-string.py)
   - [Longest Substring Without Repeating Characters](stack-queue/3.longest-substring-without-repeating-characters.py)
   - [Find All Anagrams in a String](stack-queue/438.find-all-anagrams-in-a-string.py)
+
+3. heap
+  - [Kth Largest Element in a Stream](heap/703.kth-largest-element-in-a-stream.py)
+
+4. tree
+  - [Validate Binary Search Tree](tree/98.validate-binary-search-tree.py)
+  - [Lowest Common Ancestor of a Binary Search Tree](tree/235.lowest-common-ancestor-of-a-binary-search-tree.py)
+  - [Lowest Common Ancestor of a Binary Tree](tree/236.lowest-common-ancestor-of-a-binary-tree.py)

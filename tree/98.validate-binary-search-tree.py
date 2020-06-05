@@ -21,10 +21,20 @@
 #     def inOder(self, root):
 #         if root is None:
 #             return []
-#         return self.inOder(root.left) + [root.val] + self.inOder(root.right)、
+#         return self.inOder(root.left) + [root.val] + self.inOder(root.right)
 
 
 # recursion
+# class Solution:
+#     def isValidBST(self, root: TreeNode, min=float('-inf'), max=float('inf')) -> bool:
+#         if not root:
+#             return True
+#         left = (root.val < max) and (self.isValidBST(
+#             root.left, min, root.val) if root.left else True)
+#         right = (min < root.val) and (self.isValidBST(
+#             root.right, root.val, max) if root.right else True)
+
+#         return left and right
 class Solution:
     def isValidBST(self, root):
         return self.isValid(root, float('-inf'), float('inf'))
