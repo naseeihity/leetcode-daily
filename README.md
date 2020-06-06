@@ -46,3 +46,8 @@
   - [Invert Binary Tree]((tree/226.invert-binary-tree.py))
   - [Maximum Depth of Binary Tree](tree/104.maximum-depth-of-binary-tree.py)
   - [Path Sum](tree/112.path-sum.py)
+  - [Binary Tree Inorder Traversal](tree/94.binary-tree-inorder-traversal.py)
+  - [Unique Binary Search Trees](tree/96.unique-binary-search-trees.py)
+  - [Unique Binary Search Trees II](tree/95.unique-binary-search-trees-ii.py)
+  - [Same Tree](tree/100.same-tree.py)
+  - [Symmetric Tree](tree/101.symmetric-tree.py)
