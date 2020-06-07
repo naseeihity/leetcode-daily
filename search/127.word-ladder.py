@@ -10,7 +10,6 @@ from collections import defaultdict
 
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         if not beginWord or not endWord or not endWord in wordList:
             return 0
 

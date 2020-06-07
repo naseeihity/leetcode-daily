@@ -41,5 +41,3 @@ class Solution:
 
 
 # @lc code=end
-test = Solution()
-a = test.checkInclusion("abcdxabcde", "abcdeabcdx")

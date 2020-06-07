@@ -30,11 +30,6 @@
   - [Implement Queue Using stakcs](stack-queue/232.implement-queue-using-stacks.py)
   - [Longest Valid Parentheses](stack-queue/32.longest-valid-parentheses.py)
   - [Evaluate Reverse Polish Notation](stack-queue/150.evaluate-reverse-polish-notation.py)
-  - [Sliding Window Maximum](stack-queue/239.sliding-window-maximum.py)
-  - [Minimun Window Substring](stack-queue/76.minimum-window-substring.py)
-  - [Permutation In String](stack-queue/567.permutation-in-string.py)
-  - [Longest Substring Without Repeating Characters](stack-queue/3.longest-substring-without-repeating-characters.py)
-  - [Find All Anagrams in a String](stack-queue/438.find-all-anagrams-in-a-string.py)
 
 3. heap
   - [Kth Largest Element in a Stream](heap/703.kth-largest-element-in-a-stream.py)
@@ -52,7 +47,13 @@
   - [Same Tree](tree/100.same-tree.py)
   - [Symmetric Tree](tree/101.symmetric-tree.py)
 
-5. BFS and DFS
+5. sliding window
+  - [Sliding Window Maximum](sliding-window/239.sliding-window-maximum.py)
+  - [Minimun Window Substring](sliding-window/76.minimum-window-substring.py)
+  - [Permutation In String](sliding-window/567.permutation-in-string.py)
+  - [Longest Substring Without Repeating Characters](sliding-window/3.longest-substring-without-repeating-characters.py)
+  - [Find All Anagrams in a String](sliding-window/438.find-all-anagrams-in-a-string.py)
+6. BFS and DFS
   - [Symmetric Tree](search/101.symmetric-tree.py)
   - [Minimum Depth of Binary Tree](search/111.minimum-depth-of-binary-tree.py)
   - [Binary Tree Level Order Traversal](search/102.binary-tree-level-order-traversal.py)

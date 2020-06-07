@@ -14,7 +14,6 @@
 
 class Solution:
     def middleNode(self, head: ListNode) -> ListNode:
-        def middleNode(self, head: ListNode) -> ListNode:
         fast, slow = head, head
 
         while fast and fast.next:
