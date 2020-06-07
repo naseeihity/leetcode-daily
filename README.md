@@ -51,3 +51,11 @@
   - [Unique Binary Search Trees II](tree/95.unique-binary-search-trees-ii.py)
   - [Same Tree](tree/100.same-tree.py)
   - [Symmetric Tree](tree/101.symmetric-tree.py)
+
+5. BFS and DFS
+  - [Symmetric Tree](search/101.symmetric-tree.py)
+  - [Minimum Depth of Binary Tree](search/111.minimum-depth-of-binary-tree.py)
+  - [Binary Tree Level Order Traversal](search/102.binary-tree-level-order-traversal.py)
+  - [Binary Tree Level Order Traversal II](search/107.binary-tree-level-order-traversal-ii.py)
+  - [Binary Tree Zigzag Level Order Traversal](search/103.binary-tree-zigzag-level-order-traversal.py)
+  - [Word Ladder](search/127.word-ladder.py)
