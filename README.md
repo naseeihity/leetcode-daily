@@ -60,3 +60,5 @@
   - [Binary Tree Level Order Traversal II](search/107.binary-tree-level-order-traversal-ii.py)
   - [Binary Tree Zigzag Level Order Traversal](search/103.binary-tree-zigzag-level-order-traversal.py)
   - [Word Ladder](search/127.word-ladder.py)
+  - [Word Ladder II](search/126.word-ladder-ii.py)
+  - [Open the Lock](search/752.open-the-lock.py)
