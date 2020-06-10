@@ -13,6 +13,10 @@
   - [Best Time To Buy And Sell Stock](easy/122.best-time-to-buy-and-sell-stock-ii.py)
   - [Single Number](easy/136.single-number.py)
   - [Climbing Stairs](easy/70.climbing-stairs.py)
+  - [Reverse Integer](easy/7.reverse-integer.py)
+  - [Longest Common Prefix](easy/14.longest-common-prefix.py)
+  - [Palindrome Number](easy/9.palindrome-number.py)
+  - [Roman to Integer](easy/13.roman-to-integer.py)
 
 1. linked-list
   - [Reverse Linked List](linked-list/206.reverse-linked-list.py) 
@@ -68,3 +72,5 @@
   - [Convert Sorted List to Binary Search Tree](search/109.convert-sorted-list-to-binary-search-tree.py)
   - [Path Sum](tree/112.path-sum.py)
   - [Path Sum II](search/113.path-sum-ii.py)
+  - [Construct Binary Tree from Preorder and Inorder Traversal](search/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)
+  - [Construct Binary Tree from Inorder and Postorder Traversal](search/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)
