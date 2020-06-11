@@ -74,3 +74,6 @@
   - [Path Sum II](search/113.path-sum-ii.py)
   - [Construct Binary Tree from Preorder and Inorder Traversal](search/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)
   - [Construct Binary Tree from Inorder and Postorder Traversal](search/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)
+  - [Flatten Binary Tree to Linked List](search/114.flatten-binary-tree-to-linked-list.py)
+  - [Populating Next Right Pointers in Each Node](search/116.populating-next-right-pointers-in-each-node.py)
+  - [Populating Next Right Pointers in Each Node II](search/117.populating-next-right-pointers-in-each-node-ii.py)
