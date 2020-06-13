@@ -77,3 +77,12 @@
   - [Flatten Binary Tree to Linked List](search/114.flatten-binary-tree-to-linked-list.py)
   - [Populating Next Right Pointers in Each Node](search/116.populating-next-right-pointers-in-each-node.py)
   - [Populating Next Right Pointers in Each Node II](search/117.populating-next-right-pointers-in-each-node-ii.py)
+
+7. Dynamic Programming
+  - [Climbing Stairs](dp/70.climbing-stairs.py)
+  - [Triangle](dp/120.triangle.py)
+  - [Maximum Product Subarray](dp/152.maximum-product-subarray.py)
+  - [Best Time to Buy and Sell Stock](dp/123.best-time-to-buy-and-sell-stock.py)
+  - [Best Time to Buy and Sell Stock ii](dp/123.best-time-to-buy-and-sell-stock-ii.py)
+  - [Best Time to Buy and Sell Stock iii](dp/123.best-time-to-buy-and-sell-stock-iii.py)
+  - [Best Time to Buy and Sell Stock iv](dp/123.best-time-to-buy-and-sell-stock-iv.py)
