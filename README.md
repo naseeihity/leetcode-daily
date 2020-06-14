@@ -86,3 +86,6 @@
   - [Best Time to Buy and Sell Stock ii](dp/123.best-time-to-buy-and-sell-stock-ii.py)
   - [Best Time to Buy and Sell Stock iii](dp/123.best-time-to-buy-and-sell-stock-iii.py)
   - [Best Time to Buy and Sell Stock iv](dp/123.best-time-to-buy-and-sell-stock-iv.py)
+  - [Longest Increasing Subsequence](dp/300.longest-increasing-subsequence.py)
+  - [Coin Change](dp/322.coin-change.py)
+  - [Edit Distance](dp/72.edit-distance.py)
