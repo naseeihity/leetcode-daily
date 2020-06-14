@@ -28,6 +28,7 @@
   - [Middle Of The Linked List](linked-list/876.middle-of-the-linked-list.py)
   - [Remove Nth Node From End Of List](linked-list/19.remove-nth-node-from-end-of-list.py)
   - [Merge Two Sorted Lists](linked-list/21.merge-two-sorted-lists.py)
+  - [Add Two Numbers](linked-list/2.add-two-numbers.py)
 
 2. stack & queue
   - [Valid Parentheses](stack-queue/20.valid-parentheses.py)
@@ -77,6 +78,8 @@
   - [Flatten Binary Tree to Linked List](search/114.flatten-binary-tree-to-linked-list.py)
   - [Populating Next Right Pointers in Each Node](search/116.populating-next-right-pointers-in-each-node.py)
   - [Populating Next Right Pointers in Each Node II](search/117.populating-next-right-pointers-in-each-node-ii.py)
+  - [Sum Root to Leaf Numbers](search/129.sum-root-to-leaf-numbers.py)
+  - [Surrounded Regions](search/130.surrounded-regions.py)
 
 7. Dynamic Programming
   - [Climbing Stairs](dp/70.climbing-stairs.py)
