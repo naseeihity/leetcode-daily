@@ -80,6 +80,9 @@
   - [Populating Next Right Pointers in Each Node II](search/117.populating-next-right-pointers-in-each-node-ii.py)
   - [Sum Root to Leaf Numbers](search/129.sum-root-to-leaf-numbers.py)
   - [Surrounded Regions](search/130.surrounded-regions.py)
+  - [Binary Tree Paths](search/257.binary-tree-paths.py)
+  - [Course Schedule](search/207.course-schedule.py)
+  - [Course Schedule II](search/210.course-schedule-ii.py)
 
 7. Dynamic Programming
   - [Climbing Stairs](dp/70.climbing-stairs.py)
