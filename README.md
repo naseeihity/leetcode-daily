@@ -83,6 +83,8 @@
   - [Binary Tree Paths](search/257.binary-tree-paths.py)
   - [Course Schedule](search/207.course-schedule.py)
   - [Course Schedule II](search/210.course-schedule-ii.py)
+  - [Binary Tree Maximum Path Sum](search/124.binary-tree-maximum-path-sum.py)
+  - [Recover Binary Search Tree](search/99.recover-binary-search-tree.py)
 
 7. Dynamic Programming
   - [Climbing Stairs](dp/70.climbing-stairs.py)
@@ -95,3 +97,5 @@
   - [Longest Increasing Subsequence](dp/300.longest-increasing-subsequence.py)
   - [Coin Change](dp/322.coin-change.py)
   - [Edit Distance](dp/72.edit-distance.py)
+  - [Maximum Subarray](dp/53.maximum-subarray.py)
+  - [House Robber](dp/198.house-robber.py)
