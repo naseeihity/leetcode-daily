@@ -99,3 +99,8 @@
   - [Edit Distance](dp/72.edit-distance.py)
   - [Maximum Subarray](dp/53.maximum-subarray.py)
   - [House Robber](dp/198.house-robber.py)
+  - [Longest Palindrome](dp/5.longest-palindromic-substring.py)
+  - [Minimum Path Sum](dp/64.minimum-path-sum.py)
+  - [Unique Paths](dp/62.unique-paths.py)
+  - [Unique Paths II](dp/63.unique-paths-ii.py)
+  - [Regular Expression Matching](dp/10.regular-expression-matching.py)
