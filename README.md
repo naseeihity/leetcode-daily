@@ -17,6 +17,8 @@
   - [Longest Common Prefix](easy/14.longest-common-prefix.py)
   - [Palindrome Number](easy/9.palindrome-number.py)
   - [Roman to Integer](easy/13.roman-to-integer.py)
+  - [Remove Duplicates from Sorted Array](easy/26.remove-duplicates-from-sorted-array.py)
+  - [Remove Element](easy/27.remove-element.py)
 
 1. linked-list
   - [Reverse Linked List](linked-list/206.reverse-linked-list.py) 
@@ -99,8 +101,11 @@
   - [Edit Distance](dp/72.edit-distance.py)
   - [Maximum Subarray](dp/53.maximum-subarray.py)
   - [House Robber](dp/198.house-robber.py)
+  - [House Robber II](dp/213.house-robber-ii.py)
   - [Longest Palindrome](dp/5.longest-palindromic-substring.py)
   - [Minimum Path Sum](dp/64.minimum-path-sum.py)
   - [Unique Paths](dp/62.unique-paths.py)
   - [Unique Paths II](dp/63.unique-paths-ii.py)
   - [Regular Expression Matching](dp/10.regular-expression-matching.py)
+  - [Maximal Square](dp/221.maximal-square.py)
+  - [Word Break](dp/139.word-break.py)
