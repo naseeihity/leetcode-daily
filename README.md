@@ -48,10 +48,13 @@
   - [Invert Binary Tree]((tree/226.invert-binary-tree.py))
   - [Maximum Depth of Binary Tree](tree/104.maximum-depth-of-binary-tree.py)
   - [Binary Tree Inorder Traversal](tree/94.binary-tree-inorder-traversal.py)
+  - [Binary Tree Preorder Traversal](tree/144.binary-tree-preorder-traversal.py)
+  - [Binary Tree Postorder Traversal](tree/145.binary-tree-postorder-traversal.py)
   - [Unique Binary Search Trees](tree/96.unique-binary-search-trees.py)
   - [Unique Binary Search Trees II](tree/95.unique-binary-search-trees-ii.py)
   - [Same Tree](tree/100.same-tree.py)
   - [Symmetric Tree](tree/101.symmetric-tree.py)
+  - [Binary Search Tree Iterator](tree/173.binary-search-tree-iterator.py)
 
 5. sliding window
   - [Sliding Window Maximum](sliding-window/239.sliding-window-maximum.py)
@@ -109,3 +112,4 @@
   - [Regular Expression Matching](dp/10.regular-expression-matching.py)
   - [Maximal Square](dp/221.maximal-square.py)
   - [Word Break](dp/139.word-break.py)
+  - [Word Break II](dp/140.word-break-ii.py)
