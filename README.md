@@ -55,6 +55,7 @@
   - [Same Tree](tree/100.same-tree.py)
   - [Symmetric Tree](tree/101.symmetric-tree.py)
   - [Binary Search Tree Iterator](tree/173.binary-search-tree-iterator.py)
+  - [Kth Smallest Element in a BST](tree/230.kth-smallest-element-in-a-bst.py)
 
 5. sliding window
   - [Sliding Window Maximum](sliding-window/239.sliding-window-maximum.py)
@@ -62,6 +63,7 @@
   - [Permutation In String](sliding-window/567.permutation-in-string.py)
   - [Longest Substring Without Repeating Characters](sliding-window/3.longest-substring-without-repeating-characters.py)
   - [Find All Anagrams in a String](sliding-window/438.find-all-anagrams-in-a-string.py)
+
 6. BFS and DFS
   - [Symmetric Tree](search/101.symmetric-tree.py)
   - [Minimum Depth of Binary Tree](search/111.minimum-depth-of-binary-tree.py)
@@ -113,3 +115,14 @@
   - [Maximal Square](dp/221.maximal-square.py)
   - [Word Break](dp/139.word-break.py)
   - [Word Break II](dp/140.word-break-ii.py)
+
+8. Binary Search
+  - [Search Insert Position](search/35.search-insert-position.py)
+  - [Two Sum II - Input array is sorted](search/167.two-sum-ii-input-array-is-sorted.py)
+  - [Search in Rotated Sorted Array](search/33.search-in-rotated-sorted-array.py)
+  - [Search in Rotated Sorted Array II](search/81.search-in-rotated-sorted-array-ii.py)
+  - [Find First and Last Position of Element in Sorted Array](search/34.find-first-and-last-position-of-element-in-sorted-array.py)
+  - [Search a 2D Matrix](search/74.search-a-2-d-matrix.py)
+  - [Search a 2D Matrix II](search/240.search-a-2-d-matrix-ii.py)
+  - [Find Minimum in Rotated Sorted Array](search/153.find-minimum-in-rotated-sorted-array.py)
+  - [Find Minimum in Rotated Sorted Array II](search/154.find-minimum-in-rotated-sorted-array-ii.py)
