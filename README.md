@@ -16,9 +16,7 @@
   - [Reverse Integer](easy/7.reverse-integer.py)
   - [Longest Common Prefix](easy/14.longest-common-prefix.py)
   - [Palindrome Number](easy/9.palindrome-number.py)
-  - [Roman to Integer](easy/13.roman-to-integer.py)
   - [Remove Duplicates from Sorted Array](easy/26.remove-duplicates-from-sorted-array.py)
-  - [Remove Element](easy/27.remove-element.py)
 
 1. linked-list
   - [Reverse Linked List](linked-list/206.reverse-linked-list.py) 
@@ -129,3 +127,18 @@
   - [Find Peak Element](search/162.find-peak-element.py)
   - [Minimum Size Subarray Sum](search/209.minimum-size-subarray-sum.py)
   - [Median of Two Sorted Arrays](search/4.median-of-two-sorted-arrays.py)
+
+9. String
+  - [ZigZag Conversion](string/6.zig-zag-conversion.py)
+  - [String to Integer (atoi)](string/8.string-to-integer-atoi.py)
+  - [Roman to Integer](string/13.roman-to-integer.py)
+  - [Integer to Roman](string/12.integer-to-roman.py)
+  - [Letter Combinations of a Phone Number](string/17.letter-combinations-of-a-phone-number.py)
+
+10. Two Pointers
+  - [Remove Element](easy/27.remove-element.py)
+  - [Container With Most Water](easy/11.container-with-most-water.py)
+  - [3 Sum](two-pointers/15.3-sum.py)
+  - [3 SUm Closest](two-pointers/16.3-sum-closest.py)
+  - [Two Sum II - Input array is sorted](two-pointers/167.two-sum-ii-input-array-is-sorted.py)
+  - [Minimum Size Subarray Sum](two-pointers/209.minimum-size-subarray-sum.py)
