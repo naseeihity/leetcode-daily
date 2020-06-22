@@ -126,3 +126,6 @@
   - [Search a 2D Matrix II](search/240.search-a-2-d-matrix-ii.py)
   - [Find Minimum in Rotated Sorted Array](search/153.find-minimum-in-rotated-sorted-array.py)
   - [Find Minimum in Rotated Sorted Array II](search/154.find-minimum-in-rotated-sorted-array-ii.py)
+  - [Find Peak Element](search/162.find-peak-element.py)
+  - [Minimum Size Subarray Sum](search/209.minimum-size-subarray-sum.py)
+  - [Median of Two Sorted Arrays](search/4.median-of-two-sorted-arrays.py)
