@@ -5,6 +5,7 @@
 0. base
   - [Two Sum](map-set/1.two-sum.py)
   - [Three Sum](map-set/15.3-sum.py)
+  - [Valid Sudoku](map-set/36.valid-sudoku.py)
   - [Valid Anagram](map-set/242.valid-anagram.py)
   - [First Missing Positive](map-set/41.first-missing-positive.py)
   - [Reverse String](easy/344.reverse-string.py)
@@ -38,6 +39,7 @@
 
 3. heap
   - [Kth Largest Element in a Stream](heap/703.kth-largest-element-in-a-stream.py)
+  - [Merge k Sorted Lists](heap/23.merge-k-sorted-lists.py)
 
 4. tree
   - [Validate Binary Search Tree](tree/98.validate-binary-search-tree.py)
@@ -134,6 +136,8 @@
   - [Roman to Integer](string/13.roman-to-integer.py)
   - [Integer to Roman](string/12.integer-to-roman.py)
   - [Letter Combinations of a Phone Number](string/17.letter-combinations-of-a-phone-number.py)
+  - [Next Permutation](string/31.next-permutation.py)
+  - [Count and Say](string/38.count-and-say.py)
 
 10. Two Pointers
   - [Remove Element](easy/27.remove-element.py)
@@ -142,3 +146,5 @@
   - [3 SUm Closest](two-pointers/16.3-sum-closest.py)
   - [Two Sum II - Input array is sorted](two-pointers/167.two-sum-ii-input-array-is-sorted.py)
   - [Minimum Size Subarray Sum](two-pointers/209.minimum-size-subarray-sum.py)
+  - [4 Sum](two-pointers/18.4-sum.py)
+  - [Implement strStr()](two-pointers/28.implement-str-str.py)
