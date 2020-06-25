@@ -10,7 +10,7 @@
   - [First Missing Positive](map-set/41.first-missing-positive.py)
   - [Reverse String](easy/344.reverse-string.py)
   - [Move Zeros](easy/283.move-zeroes.py)
-  - [Contains Duplicate](easy/217.contains-duplicate.py)
+  - [Contains Duplicate](map-set/217.contains-duplicate.py)
   - [Best Time To Buy And Sell Stock](easy/122.best-time-to-buy-and-sell-stock-ii.py)
   - [Single Number](easy/136.single-number.py)
   - [Climbing Stairs](easy/70.climbing-stairs.py)
@@ -30,6 +30,8 @@
   - [Remove Nth Node From End Of List](linked-list/19.remove-nth-node-from-end-of-list.py)
   - [Merge Two Sorted Lists](linked-list/21.merge-two-sorted-lists.py)
   - [Add Two Numbers](linked-list/2.add-two-numbers.py)
+  - [Add Two Numbers II](linked-list/445.add-two-numbers-ii.py)
+  - [Sort List](linked-list/148.sort-list.py)
 
 2. stack & queue
   - [Valid Parentheses](stack-queue/20.valid-parentheses.py)

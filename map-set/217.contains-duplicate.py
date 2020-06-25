@@ -52,10 +52,11 @@ class Solution:
         # return len(numsSet) != len(nums)
 
         # hash table
-        hashNums = {}
+        table = {}
+
         for num in nums:
-            if not hashNums.__contains__(num):
-                hashNums[num] = num
+            if num not in table:
+                table[num] = num
             else:
                 return True
 
