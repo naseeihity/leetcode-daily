@@ -65,6 +65,7 @@
   - [Permutation In String](sliding-window/567.permutation-in-string.py)
   - [Longest Substring Without Repeating Characters](sliding-window/3.longest-substring-without-repeating-characters.py)
   - [Find All Anagrams in a String](sliding-window/438.find-all-anagrams-in-a-string.py)
+  - [Substring with Concatenation of All Words](sliding-window/30.substring-with-concatenation-of-all-words.py)
 
 6. BFS and DFS
   - [Symmetric Tree](search/101.symmetric-tree.py)
@@ -94,6 +95,8 @@
   - [Course Schedule II](search/210.course-schedule-ii.py)
   - [Binary Tree Maximum Path Sum](search/124.binary-tree-maximum-path-sum.py)
   - [Recover Binary Search Tree](search/99.recover-binary-search-tree.py)
+  - [Combination Sum](search/39.combination-sum.py)
+  - [Combination Sum II](search/40.combination-sum-ii.py)
 
 7. Dynamic Programming
   - [Climbing Stairs](dp/70.climbing-stairs.py)
@@ -131,6 +134,8 @@
   - [Find Peak Element](search/162.find-peak-element.py)
   - [Minimum Size Subarray Sum](search/209.minimum-size-subarray-sum.py)
   - [Median of Two Sorted Arrays](search/4.median-of-two-sorted-arrays.py)
+  - [Peak Index in a Mountain Array](search/852.peak-index-in-a-mountain-array.py)
+  - [Divide Two Integers](search/29.divide-two-integers.py)
 
 9. String
   - [ZigZag Conversion](string/6.zig-zag-conversion.py)
