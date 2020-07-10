@@ -120,6 +120,10 @@
   - [Maximal Square](dp/221.maximal-square.py)
   - [Word Break](dp/139.word-break.py)
   - [Word Break II](dp/140.word-break-ii.py)
+  - [Trapping Rain Water](dp/42.trapping-rain-water.py)
+  - [Wildcard Matching](dp/44.wildcard-matching.py)
+  - [Jump Game](dp/55.jump-game.py)
+  - [Jump Game II](dp/45.jump-game-ii.py)
 
 8. Binary Search
   - [Search Insert Position](search/35.search-insert-position.py)
