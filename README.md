@@ -8,6 +8,7 @@
   - [Valid Sudoku](map-set/36.valid-sudoku.py)
   - [Valid Anagram](map-set/242.valid-anagram.py)
   - [First Missing Positive](map-set/41.first-missing-positive.py)
+  - [Group Anagrams](map-set/49.group-anagrams.py)
   - [Reverse String](easy/344.reverse-string.py)
   - [Move Zeros](easy/283.move-zeroes.py)
   - [Contains Duplicate](map-set/217.contains-duplicate.py)
@@ -18,6 +19,7 @@
   - [Longest Common Prefix](easy/14.longest-common-prefix.py)
   - [Palindrome Number](easy/9.palindrome-number.py)
   - [Remove Duplicates from Sorted Array](easy/26.remove-duplicates-from-sorted-array.py)
+  - [Remove Duplicates from Sorted Array II](easy/80.remove-duplicates-from-sorted-array-ii.py)
 
 1. linked-list
   - [Reverse Linked List](linked-list/206.reverse-linked-list.py) 
@@ -32,6 +34,7 @@
   - [Add Two Numbers](linked-list/2.add-two-numbers.py)
   - [Add Two Numbers II](linked-list/445.add-two-numbers-ii.py)
   - [Sort List](linked-list/148.sort-list.py)
+  - [Rotate List](linked-list/61.rotate-list.py)
 
 2. stack & queue
   - [Valid Parentheses](stack-queue/20.valid-parentheses.py)
@@ -97,6 +100,11 @@
   - [Recover Binary Search Tree](search/99.recover-binary-search-tree.py)
   - [Combination Sum](search/39.combination-sum.py)
   - [Combination Sum II](search/40.combination-sum-ii.py)
+  - [Permutations](search/46.permutations.py)
+  - [Permutations II](search/47.permutations-ii.py)
+  - [Combinations](search/77.combinations.py)
+  - [Subsets](search/78.subsets.py)
+  - [Word Search](search/79.word-search.py)
 
 7. Dynamic Programming
   - [Climbing Stairs](dp/70.climbing-stairs.py)
