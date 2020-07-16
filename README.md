@@ -41,6 +41,8 @@
   - [Implement Queue Using stakcs](stack-queue/232.implement-queue-using-stacks.py)
   - [Longest Valid Parentheses](stack-queue/32.longest-valid-parentheses.py)
   - [Evaluate Reverse Polish Notation](stack-queue/150.evaluate-reverse-polish-notation.py)
+  - [Largest Rectangle in Histogram](stack-queue/84.largest-rectangle-in-histogram.py)
+  - [Maximal Rectangle](stack-queue/85.maximal-rectangle.py)
 
 3. heap
   - [Kth Largest Element in a Stream](heap/703.kth-largest-element-in-a-stream.py)
@@ -167,3 +169,4 @@
   - [Minimum Size Subarray Sum](two-pointers/209.minimum-size-subarray-sum.py)
   - [4 Sum](two-pointers/18.4-sum.py)
   - [Implement strStr()](two-pointers/28.implement-str-str.py)
+  - [Remove Duplicates from Sorted List II](two-pointers/82.remove-duplicates-from-sorted-list-ii.py)
