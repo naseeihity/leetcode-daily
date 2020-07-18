@@ -8,7 +8,7 @@
 
 
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit(self, prices) -> int:
         if not prices:
             return 0
 
@@ -26,6 +26,10 @@ class Solution:
                         dp[i-1][kk][0], dp[i-1][kk][1]+prices[i])
                     dp[i][kk][1] = max(
                         dp[i-1][kk][1], dp[i-1][kk-1][0]-prices[i])
-
+        print(dp[n-1][k][0])
         return dp[n-1][k][0]
+
+
+test = Solution()
+test.maxProfit([1, 2, 3, 4, 6])
 # @lc code=end
