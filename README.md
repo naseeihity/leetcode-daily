@@ -43,6 +43,12 @@
   - [Evaluate Reverse Polish Notation](stack-queue/150.evaluate-reverse-polish-notation.py)
   - [Largest Rectangle in Histogram](stack-queue/84.largest-rectangle-in-histogram.py)
   - [Maximal Rectangle](stack-queue/85.maximal-rectangle.py)
+  - [Next Greater Element II](stack-queue/503.next-greater-element-ii.py)
+  - [Daily Temperatures](stack-queue/739.daily-temperatures.py)
+  - [Shortest Unsorted Continuous Subarray](stack-queue/581.shortest-unsorted-continuous-subarray.py)
+  - [Online Stock Span](stack-queue/901.online-stock-span.py)
+  - [Remove K Digits](stack-queue/402.remove-k-digits.py)
+  - [Remove Duplicate Letters](stack-queue/316.remove-duplicate-letters.py)
 
 3. heap
   - [Kth Largest Element in a Stream](heap/703.kth-largest-element-in-a-stream.py)
