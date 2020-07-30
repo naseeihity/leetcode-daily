@@ -78,6 +78,8 @@
   - [Find All Anagrams in a String](sliding-window/438.find-all-anagrams-in-a-string.py)
   - [Substring with Concatenation of All Words](sliding-window/30.substring-with-concatenation-of-all-words.py)
   - [Longest Repeating Character Replacement](sliding-window/424.longest-repeating-character-replacement.py)
+  - [Subarrays with K Different Integers](sliding-window/992.subarrays-with-k-different-integers.py)
+  - [Sliding Window Median](sliding-window/480.sliding-window-median.py)
 
 6. BFS and DFS
   - [Symmetric Tree](search/101.symmetric-tree.py)
