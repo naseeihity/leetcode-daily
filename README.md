@@ -9,6 +9,7 @@
   - [Valid Anagram](map-set/242.valid-anagram.py)
   - [First Missing Positive](map-set/41.first-missing-positive.py)
   - [Group Anagrams](map-set/49.group-anagrams.py)
+  - [LRU Cache](map-set/146.lru-cache.py)
   - [Reverse String](easy/344.reverse-string.py)
   - [Move Zeros](easy/283.move-zeroes.py)
   - [Contains Duplicate](map-set/217.contains-duplicate.py)
