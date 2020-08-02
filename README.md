@@ -117,6 +117,8 @@
   - [Combinations](search/77.combinations.py)
   - [Subsets](search/78.subsets.py)
   - [Word Search](search/79.word-search.py)
+  - [Matchsticks to Square](search/473.matchsticks-to-square.py)
+  - [Restore IP Addresses](search/93.restore-ip-addresses.py)
 
 7. Dynamic Programming
   - [Climbing Stairs](dp/70.climbing-stairs.py)
@@ -180,3 +182,4 @@
   - [4 Sum](two-pointers/18.4-sum.py)
   - [Implement strStr()](two-pointers/28.implement-str-str.py)
   - [Remove Duplicates from Sorted List II](two-pointers/82.remove-duplicates-from-sorted-list-ii.py)
+  - [Longest Mountain in Array](two-pointers/845.longest-mountain-in-array.py)

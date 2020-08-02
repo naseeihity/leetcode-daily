@@ -26,3 +26,11 @@ class Solution:
                 res = mid
         return int(res)
         # @lc code=end
+
+        # 牛顿法
+        # epsilon = 1e-2
+        # a = x
+        # while a * a - x > epsilon:
+        #     a = (a + x / a) // 2
+
+        # return int(a)
