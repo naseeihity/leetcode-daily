@@ -10,6 +10,7 @@
   - [First Missing Positive](map-set/41.first-missing-positive.py)
   - [Group Anagrams](map-set/49.group-anagrams.py)
   - [LRU Cache](map-set/146.lru-cache.py)
+  - [Longest Consecutive Sequence](map-set/128.longest-consecutive-sequence.py)
   - [Reverse String](easy/344.reverse-string.py)
   - [Move Zeros](easy/283.move-zeroes.py)
   - [Contains Duplicate](map-set/217.contains-duplicate.py)
@@ -54,6 +55,7 @@
 3. heap
   - [Kth Largest Element in a Stream](heap/703.kth-largest-element-in-a-stream.py)
   - [Merge k Sorted Lists](heap/23.merge-k-sorted-lists.py)
+  - [Kth Largest Element in an Array](heap/215.kth-largest-element-in-an-array.py)
 
 4. tree
   - [Validate Binary Search Tree](tree/98.validate-binary-search-tree.py)

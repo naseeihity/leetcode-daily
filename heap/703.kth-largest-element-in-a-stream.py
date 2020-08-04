@@ -9,16 +9,18 @@
 
 class KthLargest:
 
-    def __init__(self, k, nums):
+    def __init__(self, k: int, nums: List[int]):
+        self.heap = []
         self.k = k
-        self.nums = heapq.nlargest(k, nums + [float('-inf')])
-        heapq.heapify(self.nums)
 
-    def add(self, val):
+        for num in nums:
+            self.add(num)
 
-        # Your KthLargest object will be instantiated and called as such:
-        # obj = KthLargest(k, nums)
-        # param_1 = obj.add(val)
-        heapq.heappushpop(self.nums, val)
-        return self.nums[0]
+    def add(self, val: int) -> int:
+        heappush(self.heap, val)
+
+        if len(self.heap) > self.k:
+            heappop(self.heap)
+
+        return self.heap[0]
         # @lc code=end
