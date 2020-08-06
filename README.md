@@ -148,6 +148,8 @@
   - [Wildcard Matching](dp/44.wildcard-matching.py)
   - [Jump Game](dp/55.jump-game.py)
   - [Jump Game II](dp/45.jump-game-ii.py)
+  - [Super Egg Drop](dp/887.super-egg-drop.py)
+  - [Target Sum](dp/494.target-sum.py)
 
 8. Binary Search
   - [Search Insert Position](search/35.search-insert-position.py)
