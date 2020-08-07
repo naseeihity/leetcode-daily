@@ -136,6 +136,8 @@
   - [Maximum Subarray](dp/53.maximum-subarray.py)
   - [House Robber](dp/198.house-robber.py)
   - [House Robber II](dp/213.house-robber-ii.py)
+  - [House Robber III](dp/337.house-robber-iii.py)
+  - [Partition Equal Subset Sum](dp/416.partition-equal-subset-sum.py)
   - [Longest Palindrome](dp/5.longest-palindromic-substring.py)
   - [Minimum Path Sum](dp/64.minimum-path-sum.py)
   - [Unique Paths](dp/62.unique-paths.py)
