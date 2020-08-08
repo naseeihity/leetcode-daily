@@ -152,6 +152,10 @@
   - [Jump Game II](dp/45.jump-game-ii.py)
   - [Super Egg Drop](dp/887.super-egg-drop.py)
   - [Target Sum](dp/494.target-sum.py)
+  - [Longest Common Subsequence](dp/1143.longest-common-subsequence.py)
+  - [Create Maximum Number](dp/321.create-maximum-number.py)
+  - [Swap For Longest Repeated Character Substring](dp/1156.swap-for-longest-repeated-character-substring.py)
+  - [Minimum Insertion Steps to Make a String Palindrome](dp/1312.minimum-insertion-steps-to-make-a-string-palindrome.py)
 
 8. Binary Search
   - [Search Insert Position](search/35.search-insert-position.py)
