@@ -156,6 +156,8 @@
   - [Create Maximum Number](dp/321.create-maximum-number.py)
   - [Swap For Longest Repeated Character Substring](dp/1156.swap-for-longest-repeated-character-substring.py)
   - [Minimum Insertion Steps to Make a String Palindrome](dp/1312.minimum-insertion-steps-to-make-a-string-palindrome.py)
+  - [Non-overlapping Intervals](dp/435.non-overlapping-intervals.py)
+  - [Longest Palindromic Subsequence](dp/516.longest-palindromic-subsequence.py)
 
 8. Binary Search
   - [Search Insert Position](search/35.search-insert-position.py)
