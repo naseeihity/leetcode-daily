@@ -19,8 +19,7 @@
 
 
 class Solution:
-    def sortedListToBST(self, head: ListNode) -> TreeNode:
-        def getListCenter(self, head):
+    def getListCenter(self, head):
         dummy = None
         slow, fast = head, head
         while fast and fast.next:
