@@ -11,9 +11,9 @@ func longestDupSubstring(s string) string {
 
 		for l < r {
 			m := l + (r - l) / 2
-            if m == l || m == r {
-                break
-            }
+			if m == l || m == r {
+					break
+			}
 			dupStr := findDup(s, m)
 
 			if dupStr == "" {
